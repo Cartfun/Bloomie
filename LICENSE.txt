@@ -1,0 +1,15 @@
+Copyright (c) 2026 cartfun. Wszelkie prawa zastrzeżone.
+
+
+Kod źródłowy aplikacji Bloomie jest własnością intelektualną autora (cartfun). 
+Wszelkie kopiowanie, modyfikowanie, redystrybucja oraz wykorzystywanie kodu 
+w celach komercyjnych lub prywatnych bez wyraźnej zgody autora jest zabronione.
+
+
+Aplikacja wykorzystuje fonty autorstwa Sobol3D. 
+Fonty te są udostępnione na licencji Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+Wszelkie prawa do tych fontów należą do ich autora (Sobol3D). Użytkownik zobowiązany 
+jest do przestrzegania licencji CC BY-NC 4.0 podczas korzystania z zasobów 
+graficznych aplikacji. Pełna treść licencji CC BY-NC 4.0 dostępna jest pod adresem 
+httpscreativecommons.orglicensesby-nc4.0
